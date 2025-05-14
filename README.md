@@ -11,7 +11,7 @@ DressCast берет данные о погоде через API и предла
 JavaScript\
 React\
 OpenWeatherMap API\
-CSS\
+CSS
 
 ## 📈 Возможности
 
@@ -26,7 +26,7 @@ CSS\
 
 ## 📄 Лицензия
 
-MIT License. Подробнее — файл [LICENSE]([url](https://github.com/arsenycrack/DressCast/blob/main/LICENSE))
+MIT License. Подробнее — файл [LICENSE](https://github.com/arsenycrack/DressCast/blob/main/LICENSE)
 
 ## 👥 Автор
 
