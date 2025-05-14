@@ -11,7 +11,7 @@ DressCast берет данные о погоде через API и предла
 JavaScript\
 React\
 OpenWeatherMap API\
-CSS
+HTML/CSS
 
 ## 📈 Возможности
 
